@@ -1,2 +1,5 @@
 Data/images/*
 Data/videos/*
+build
+out
+.vs
